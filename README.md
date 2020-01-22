@@ -14,3 +14,16 @@ Features:
  - Real-time detune
  - Real-time panning
  - Real-time volume change
+
+
+Skills Learned/Knowledge acquired after building this project:
+- DSP Theory
+- Upsampling, Oversampling, Downsampling
+- Lagrange Interpolation
+- Nyquist Frequency
+- Filters
+- Fast Fourier Transforms
+- Logic Gates, Assembly Programming language...(after learning about pointers in C++, I wanted to get a intuitive understanding of it. So ended up learning all the way from transistors up using first principles)
+- Component based UI Design
+- C++ STL Algorithms
+- ...
